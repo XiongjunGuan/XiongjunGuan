@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://xiongjunguan.github.io/" target="_blank">
+    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="220"/>
+  </a>
+</div>
 
-<!--
-**XiongjunGuan/XiongjunGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/CUDA-black?style=flat&logo=nvidia"/>
+  <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/OpenCV-black?style=flat"/>
+  <img src="https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino"/>
+  <img src="https://img.shields.io/badge/MATLAB-black?style=flat"/>
+  <img src="https://img.shields.io/badge/MS--Swift-black?style=flat"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiongjunguan&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=000000&text_color=444&icon_color=000000&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongjunguan&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&title_color=000000&text_color=444" />
+</p>
