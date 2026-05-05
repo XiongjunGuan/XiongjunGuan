@@ -40,6 +40,6 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiongjunguan&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=000000&text_color=444&icon_color=000000&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongjunguan&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&title_color=000000&text_color=444" />
+  <img height="160" src="https://github-readme-stats-ruddy-omega-79.vercel.app/api?username=xiongjunguan&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=000000&text_color=444&icon_color=000000&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-ruddy-omega-79.vercel.app/api/top-langs/?username=xiongjunguan&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&title_color=000000&text_color=444" />
 </p>
