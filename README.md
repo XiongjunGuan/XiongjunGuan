@@ -3,7 +3,13 @@
     <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="200"/>
   </a>
 </div>
-
+<p align="center">
+  <sub>
+    <a href="https://xiongjunguan.github.io/">
+      personal homepage →
+    </a>
+  </sub>
+</p>
 <br/>
 
 <p align="center"><sub><b>Programming</b></sub></p>
