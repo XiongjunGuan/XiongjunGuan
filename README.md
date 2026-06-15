@@ -21,27 +21,6 @@
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5"/>
 </p>
 
-<p align="center"><sub><b>Research Stack</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Transformers-black?style=flat"/>
-  <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/OpenCV-black?style=flat"/>
-  <img src="https://img.shields.io/badge/CUDA-black?style=flat&logo=nvidia"/>
-  <img src="https://img.shields.io/badge/MS--Swift-black?style=flat"/>
-</p>
-
-<p align="center"><sub><b>Tools</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/HuggingFace-black?style=flat"/>
-  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex"/>
-  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino"/>
-  <img src="https://img.shields.io/badge/Codex-black?style=flat"/>
-</p>
 
 <br/>
 
